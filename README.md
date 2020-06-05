@@ -3,4 +3,4 @@ This is a simple implementation of popular tetris game for AP (Advanced Programm
 ## Dependencies
 The only external library used in this game is gson used for saving high score players.
 ## Game Preview
-<img src="Result.png" align="left" height="600" width="400" >
+<img src="https://github.com/alireza-shirzad/Tetris/blob/master/Preview.png" align="left" height="600" width="400" >
