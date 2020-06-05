@@ -1,3 +1,6 @@
 # Tetris
-This is a source code for popular Tetris game. The Main Class contains the main function to be executed.
-The only purpose of this project wa Java programming practice.
+This is a simple implementation of popular tetris game for AP (Advanced Programming) course assignment.
+## Dependencies
+The only external library used in this game is gson used for saving high score players.
+## Game Preview
+<img src="Result.png" align="left" height="600" width="400" >
